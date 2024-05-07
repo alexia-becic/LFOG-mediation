@@ -45,6 +45,10 @@ blockquote {
     font-size: 1.1em
 }
 
+main {
+	padding: 3%;
+}
+
 blockquote:before,
 blockquote:after {
 	position: absolute;
