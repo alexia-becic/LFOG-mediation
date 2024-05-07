@@ -137,9 +137,7 @@ h2 {
     margin:  5% 0 0 0;
 }
 
-main {
-    margin: 0 10%;
-}
+
 
 .ecole {
     background-color: #F5f5f5;
@@ -158,6 +156,9 @@ main {
 	margin-bottom: 50px;
 	font-family: arial;
 	}
+	main {
+    margin: 0 10%;
+}
 }
 div.gallery {
   margin: 5px;
